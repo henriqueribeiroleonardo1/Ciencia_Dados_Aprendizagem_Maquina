@@ -12,11 +12,11 @@
 |---|---|
 | Título provisório do projeto | Avaliação de desempenho de assistentes conversacionais locais baseados em RAG para consulta a documentos sensíveis |
 | Curso / disciplina | Ciência da Computação — Gestão de Projetos (Unidade III) |
-| Turma | [PREENCHER] |
-| Equipe | [NOME DA EQUIPE, se houver] |
+| Turma |   Sistemas de Informação|
+| Equipe | Henrique Ribeiro Leonardo, Pedro Luiz Oliveira da Costa  |
 | Integrantes e funções iniciais | Henrique Ribeiro Leonardo — [função]; Pedro Luiz Oliveira da Costa — [função] |
-| Professor(a) | [PREENCHER] |
-| Data de elaboração | [PREENCHER] |
+| Professor(a) | não definido |
+| Data de elaboração | 16/09/26 |
 | Versão do documento | 1.0 |
 
 ## 2. Visão geral
