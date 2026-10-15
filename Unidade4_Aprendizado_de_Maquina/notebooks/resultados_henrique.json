@@ -1,0 +1,61 @@
+{
+  "arvore": {
+    "max_depth": 4,
+    "min_samples_leaf": 40,
+    "limiar_escolhido_no_treino": 0.5,
+    "acuracia_treino": 0.7622222222222222,
+    "acuracia_referencia_teste": 0.5933333333333334,
+    "validacao_escolhida": 0.7288888888888889,
+    "desvio_validacao": 0.03030707043774635,
+    "teste": {
+      "limiar_0.5": {
+        "acuracia": 0.78,
+        "sensibilidade": 0.7704918032786885,
+        "precisao": 0.7121212121212122,
+        "f1": 0.7401574803149606,
+        "TN": 70,
+        "FP": 19,
+        "FN": 14,
+        "TP": 47
+      }
+    }
+  },
+  "ablacao": [
+    {
+      "sem": "(nenhum)",
+      "validacao": 0.7288888888888889,
+      "desvio": 0.03030707043774635
+    },
+    {
+      "sem": "frequencia_sem4",
+      "validacao": 0.7311111111111112,
+      "desvio": 0.03325917677132393
+    },
+    {
+      "sem": "nota_sem4",
+      "validacao": 0.6511111111111111,
+      "desvio": 0.030307070437746365
+    },
+    {
+      "sem": "entregas_sem4",
+      "validacao": 0.7244444444444444,
+      "desvio": 0.039377878103709664
+    }
+  ],
+  "regressao": {
+    "mae": 28.592371891051492,
+    "mae_referencia": 84.73054077484917,
+    "r2": 0.8774401457921505,
+    "coef": {
+      "usuarios_ativos": 0.3479872609773974,
+      "horas_abertura": 2.2970263692551334
+    },
+    "intercepto": 37.317264148313654
+  },
+  "versoes": {
+    "python": "3.13.18",
+    "sklearn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  }
+}

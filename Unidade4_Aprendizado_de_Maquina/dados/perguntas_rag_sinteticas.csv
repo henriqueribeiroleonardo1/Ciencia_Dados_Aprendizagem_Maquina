@@ -1,0 +1,801 @@
+pergunta,colecao
+você sabe quem ganhou o oscar,fora_escopo
+me fala sobre como esta o transito,fora_escopo
+"por favor, quantos dias de plano de saude eu tenho",rh
+esqueci a autenticação em dois fatores,ti_seguranca
+"bom dia, qual a regra de decimo terceiro para estagiario",rh
+esqueci a VPN,ti_seguranca
+"bom dia, quando vence a despesa de viagem",financeiro
+"por favor, qual a política de pasta compartilhada",ti_seguranca
+você sabe como está o trânsito,fora_escopo
+"oi, qual o prazo",financeiro
+como funciona o ponto eletrônico,rh
+quem assinou o contrato de prestacao,juridico
+esqueci a licença do antivírus,ti_seguranca
+como funciona o plano de saúde,rh
+tem duplicata em atraso,ti_seguranca
+quem aprovou a nota fiscal,financeiro
+existe termo de confidencialidade com o fornecedor,juridico
+a fatura do fornecedor ja foi paga,financeiro
+quem libera senha,ti_seguranca
+quem libera conta de e-mail,ti_seguranca
+"bom dia, você sabe uma piada",fora_escopo
+como troco minha autenticação em dois fatores,ti_seguranca
+"por favor, quem libera impressora da rede",ti_seguranca
+"por favor, voce sabe quem ganhou o oscar",fora_escopo
+"oi, qual o valor da ordem de compra",financeiro
+"bom dia, como funciona o holerite",rh
+"por favor, quem assinou o acordo de nível de serviço",juridico
+"bom dia, esqueci a VPN",ti_seguranca
+o que acha de o jogo de ontem,fora_escopo
+tem alguma atualização,ti_seguranca
+"por favor, o aditivo tem multa por rescisão",juridico
+posso pedir licença no mês que vem,rh
+esqueci a pasta compartilhada,ti_seguranca
+qual centro de custo da nota fiscal,juridico
+posso pedir plano de saúde no mês que vem,rh
+"por favor, posso pedir licença no mês que vem",rh
+"por favor, voce sabe o jogo de ontem",fora_escopo
+tem reembolso em atraso,financeiro
+voce sabe o jogo de ontem,fora_escopo
+o que acha de uma piada,fora_escopo
+quantos dias de banco de horas eu tenho,rh
+"oi, o aditivo tem multa por rescisão",juridico
+qual o prazo do contrato de prestacao,juridico
+quem aprovou a reembolso,financeiro
+esqueci a senha,ti_seguranca
+a senha esta bloqueada,ti_seguranca
+qual centro de custo da fatura do fornecedor,financeiro
+"oi, qual a politica de chave de acesso",ti_seguranca
+qual a politica de senha,ti_seguranca
+como troco minha autenticação em dois fatores,ti_seguranca
+qual clausula fala de contrato de prestacao,juridico
+o que diz a política de home office,rh
+quem é o responsável,fora_escopo
+qual o prazo do aditivo,juridico
+a parcela do empréstimo já foi paga,financeiro
+"oi, qual o valor da reembolso",financeiro
+a fatura do fornecedor já foi paga,financeiro
+quando vence a ordem de compra,financeiro
+o acordo de nível de serviço foi renovado,juridico
+qual o prazo do acordo de nível de serviço,juridico
+quem libera VPN,ti_seguranca
+o que acha de a previsão do tempo,fora_escopo
+você sabe um filme bom,fora_escopo
+existe acordo de nível de serviço com o fornecedor,juridico
+quem assinou o contrato de prestação,juridico
+"oi, qual centro de custo da nota fiscal",financeiro
+"oi, como funciona o plano de saúde",rh
+o que acha de receita de bolo,fora_escopo
+tem despesa de viagem em atraso,financeiro
+qual a regra de decimo terceiro para estagiario,rh
+como configurar a impressora da rede,ti_seguranca
+qual clausula fala de termo de confidencialidade,juridico
+a previsão do tempo,financeiro
+onde vejo meu holerite,rh
+quantos dias de décimo terceiro eu tenho,rh
+existe acordo de nivel de servico com o fornecedor,juridico
+"por favor, quando vence a fatura do fornecedor",financeiro
+"por favor, como troco minha chave de acesso",ti_seguranca
+como troco minha pasta compartilhada,ti_seguranca
+"por favor, me manda o arquivo",ti_seguranca
+qual centro de custo da parcela do emprestimo,financeiro
+qual a regra de home office para estagiário,rh
+posso pedir auxílio creche no mês que vem,rh
+o que diz a política de ponto eletrônico,rh
+quem libera conta de e-mail,ti_seguranca
+me fala sobre a cotação do dólar,rh
+você sabe o jogo de ontem,fora_escopo
+o contrato de prestação tem multa por rescisão,juridico
+a duplicata já foi paga,financeiro
+posso pedir decimo terceiro no mes que vem,rh
+me fala sobre a cotação do dólar,fora_escopo
+o que acha de uma piada,fora_escopo
+quem assinou o aditivo,juridico
+qual o valor da fatura do fornecedor,financeiro
+como configurar a impressora da rede,ti_seguranca
+como troco minha pasta compartilhada,ti_seguranca
+o que acha de a previsão do tempo,fora_escopo
+"oi, você sabe como está o trânsito",fora_escopo
+"por favor, onde vejo meu vale-refeicao",rh
+me fala sobre a cotação do dólar,fora_escopo
+tem alguma atualização,rh
+tem conta de energia em atraso,financeiro
+"por favor, posso pedir plano de saúde no mês que vem",rh
+o que diz a política de home office,rh
+posso pedir auxílio creche no mês que vem,rh
+quem assinou o acordo de nível de serviço,juridico
+qual centro de custo da reembolso,financeiro
+"oi, me fala sobre uma piada",fora_escopo
+qual cláusula fala de contrato de locação,juridico
+"por favor, tem ordem de compra em atraso",financeiro
+qual centro de custo da fatura do fornecedor,financeiro
+qual a política de chave de acesso,ti_seguranca
+onde vejo meu holerite,rh
+posso pedir licença no mês que vem,rh
+preciso de ajuda com isso,fora_escopo
+posso pedir plano de saúde no mês que vem,rh
+qual a politica de senha,ti_seguranca
+o que acha de a previsão do tempo,fora_escopo
+quem assinou o contrato de locação,juridico
+existe termo de confidencialidade com o fornecedor,juridico
+o aditivo tem multa por rescisão,juridico
+tem nota fiscal em atraso,financeiro
+qual a regra de home office para estagiário,rh
+me fala sobre o jogo de ontem,fora_escopo
+qual o prazo do aditivo,juridico
+qual cláusula fala de contrato de locação,juridico
+esqueci a autenticacao em dois fatores,ti_seguranca
+posso pedir ferias no mes que vem,ti_seguranca
+"bom dia, quem assinou o distrato",juridico
+"por favor, você sabe o jogo de ontem",fora_escopo
+quem ganhou o oscar,fora_escopo
+"bom dia, qual cláusula fala de contrato com cliente",juridico
+posso pedir auxílio creche no mês que vem,rh
+o que acha de a cotação do dólar,fora_escopo
+o acordo de nivel de servico foi renovado,juridico
+a impressora da rede está bloqueada,ti_seguranca
+me fala sobre quem ganhou o oscar,fora_escopo
+o distrato foi renovado,juridico
+uma piada,fora_escopo
+quando vence a nota fiscal,fora_escopo
+o aditivo tem multa por rescisão,juridico
+"por favor, esqueci a pasta compartilhada",ti_seguranca
+quem libera conta de e-mail,ti_seguranca
+quem assinou o aditivo,juridico
+quantos dias de décimo terceiro eu tenho,rh
+qual o valor da ordem de compra,financeiro
+"por favor, quantos dias de ponto eletrônico eu tenho",rh
+qual o valor da conta de energia,financeiro
+"bom dia, tem alguma atualização",financeiro
+como troco minha VPN,ti_seguranca
+"bom dia, a previsão do tempo",fora_escopo
+onde vejo meu vale-refeição,rh
+voce sabe um filme bom,fora_escopo
+uma piada,fora_escopo
+a senha está bloqueada,ti_seguranca
+esqueci a conta de e-mail,ti_seguranca
+um filme bom,fora_escopo
+voce sabe quem ganhou o oscar,fora_escopo
+esqueci a conta de e-mail,ti_seguranca
+voce sabe um filme bom,fora_escopo
+qual o prazo do contrato de locação,juridico
+"bom dia, como troco minha pasta compartilhada",ti_seguranca
+"oi, qual centro de custo da parcela do empréstimo",financeiro
+qual o valor da duplicata,financeiro
+quando vence a duplicata,financeiro
+"bom dia, onde vejo meu licença",rh
+o que diz a política de holerite,rh
+tem conta de energia em atraso,financeiro
+quem aprovou a ordem de compra,financeiro
+"por favor, me manda o arquivo",financeiro
+"por favor, o acordo de nível de serviço foi renovado",juridico
+você sabe um filme bom,fora_escopo
+"por favor, como funciona o decimo terceiro",rh
+"por favor, a nota fiscal já foi paga",financeiro
+me manda o arquivo,juridico
+você sabe uma piada,fora_escopo
+quantos dias de auxílio creche eu tenho,rh
+"oi, a previsão do tempo",fora_escopo
+"por favor, qual a política de licença do antivírus",ti_seguranca
+qual a política de chave de acesso,ti_seguranca
+me fala sobre a cotação do dólar,fora_escopo
+"por favor, esqueci a VPN",ti_seguranca
+"oi, qual cláusula fala de aditivo",juridico
+"oi, o que acha de receita de bolo",fora_escopo
+você sabe uma piada,fora_escopo
+me manda o arquivo,rh
+esqueci a chave de acesso,ti_seguranca
+"oi, quem libera licenca do antivirus",ti_seguranca
+tem conta de energia em atraso,financeiro
+"oi, como troco minha autenticação em dois fatores",ti_seguranca
+quem aprovou a despesa de viagem,financeiro
+"oi, quando vence a ordem de compra",financeiro
+"por favor, quem assinou o contrato de locacao",juridico
+como configurar a autenticação em dois fatores,ti_seguranca
+como troco minha licença do antivírus,ti_seguranca
+quantos dias de décimo terceiro eu tenho,rh
+me fala sobre o jogo de ontem,fora_escopo
+"oi, o aditivo tem multa por rescisao",fora_escopo
+o que acha de receita de bolo,fora_escopo
+esqueci a chave de acesso,ti_seguranca
+"bom dia, o acordo de nível de serviço tem multa por rescisão",juridico
+quantos dias de holerite eu tenho,rh
+onde vejo meu holerite,rh
+esqueci a licenca do antivirus,ti_seguranca
+"por favor, posso pedir holerite no mes que vem",rh
+qual a regra de banco de horas para estagiário,rh
+o que diz a política de plano de saúde,rh
+o que acha de quem ganhou o oscar,fora_escopo
+qual centro de custo da ordem de compra,financeiro
+quem aprovou a fatura do fornecedor,financeiro
+você sabe um filme bom,juridico
+onde vejo meu férias,rh
+"bom dia, o que diz a política de auxílio creche",rh
+qual cláusula fala de acordo de nível de serviço,juridico
+quem assinou o acordo de nível de serviço,juridico
+o que diz a política de holerite,rh
+"oi, quem aprovou a ordem de compra",financeiro
+qual o prazo do contrato de locação,juridico
+qual cláusula fala de aditivo,juridico
+"oi, o que acha de a cotação do dólar",fora_escopo
+o jogo de ontem,fora_escopo
+o que diz a política de ponto eletrônico,rh
+você sabe quem ganhou o oscar,fora_escopo
+existe contrato de locação com o fornecedor,ti_seguranca
+"por favor, quantos dias de banco de horas eu tenho",rh
+quando vence a fatura do fornecedor,financeiro
+posso pedir decimo terceiro no mes que vem,financeiro
+como esta o transito,fora_escopo
+o que acha de um filme bom,fora_escopo
+o que diz a politica de plano de saude,rh
+"por favor, qual a política de senha",ti_seguranca
+o contrato de locação tem multa por rescisão,juridico
+onde vejo meu décimo terceiro,rh
+"oi, quem assinou o aditivo",juridico
+existe aditivo com o fornecedor,juridico
+qual o prazo do termo de confidencialidade,juridico
+"bom dia, tem despesa de viagem em atraso",financeiro
+me manda o arquivo,financeiro
+preciso de ajuda com isso,rh
+"bom dia, qual o valor da despesa de viagem",financeiro
+tem nota fiscal em atraso,financeiro
+qual a política de conta de e-mail,ti_seguranca
+"por favor, me fala sobre uma piada",fora_escopo
+tem parcela do empréstimo em atraso,financeiro
+quem é o responsável,rh
+esqueci a pasta compartilhada,ti_seguranca
+"por favor, qual a regra de vale-refeicao para estagiario",rh
+tem parcela do empréstimo em atraso,financeiro
+"por favor, qual a regra de holerite para estagiário",rh
+"por favor, quem é o responsável",juridico
+"por favor, a reembolso ja foi paga",financeiro
+esqueci a licença do antivírus,ti_seguranca
+qual o prazo do distrato,juridico
+o aditivo foi renovado,juridico
+como configurar a VPN,ti_seguranca
+quem aprovou a ordem de compra,financeiro
+"bom dia, quantos dias de banco de horas eu tenho",rh
+a previsão do tempo,fora_escopo
+tem conta de energia em atraso,financeiro
+quem aprovou a duplicata,financeiro
+"bom dia, posso pedir ferias no mes que vem",rh
+tem reembolso em atraso,financeiro
+o que acha de receita de bolo,fora_escopo
+esqueci a chave de acesso,ti_seguranca
+"oi, quem libera senha",ti_seguranca
+a reembolso já foi paga,financeiro
+qual o prazo do acordo de nível de serviço,juridico
+"por favor, posso pedir férias no mês que vem",rh
+"oi, esqueci a conta de e-mail",ti_seguranca
+"bom dia, o que acha de a previsao do tempo",fora_escopo
+"oi, quantos dias de férias eu tenho",rh
+"oi, posso pedir ponto eletrônico no mês que vem",rh
+quem aprovou a duplicata,financeiro
+qual o prazo do contrato de locação,juridico
+"por favor, quem aprovou a ordem de compra",financeiro
+"bom dia, existe aditivo com o fornecedor",juridico
+quem libera conta de e-mail,ti_seguranca
+"por favor, como configurar a senha",ti_seguranca
+"bom dia, existe aditivo com o fornecedor",juridico
+quem aprovou a ordem de compra,financeiro
+quem aprovou a despesa de viagem,financeiro
+qual o prazo do procuração,juridico
+a parcela do empréstimo já foi paga,juridico
+quem aprovou a conta de energia,financeiro
+"bom dia, esqueci a senha",ti_seguranca
+"por favor, o contrato de locacao tem multa por rescisao",fora_escopo
+você sabe quem ganhou o oscar,fora_escopo
+a conta de energia já foi paga,financeiro
+o distrato tem multa por rescisão,juridico
+"bom dia, qual o prazo do procuração",juridico
+"bom dia, a VPN está bloqueada",ti_seguranca
+quem ganhou o oscar,fora_escopo
+como funciona o licença,rh
+você sabe uma piada,fora_escopo
+tem nota fiscal em atraso,financeiro
+como funciona o licença,rh
+"por favor, como funciona o auxílio creche",rh
+existe contrato com cliente com o fornecedor,juridico
+"bom dia, posso pedir férias no mês que vem",rh
+tem parcela do empréstimo em atraso,financeiro
+posso pedir banco de horas no mes que vem,rh
+como configurar a licença do antivírus,ti_seguranca
+me fala sobre a previsão do tempo,fora_escopo
+você sabe quem ganhou o oscar,fora_escopo
+a pasta compartilhada esta bloqueada,ti_seguranca
+"bom dia, qual a politica de autenticacao em dois fatores",ti_seguranca
+tem alguma atualização,ti_seguranca
+posso pedir ponto eletrônico no mês que vem,rh
+qual o valor da nota fiscal,financeiro
+quantos dias de décimo terceiro eu tenho,rh
+onde vejo meu férias,rh
+o termo de confidencialidade tem multa por rescisao,juridico
+o que acha de um filme bom,fora_escopo
+a pasta compartilhada esta bloqueada,ti_seguranca
+"por favor, tem parcela do empréstimo em atraso",financeiro
+"oi, qual cláusula fala de contrato com cliente",juridico
+como troco minha autenticação em dois fatores,ti_seguranca
+"oi, qual a política de chave de acesso",ti_seguranca
+qual o prazo do acordo de nível de serviço,juridico
+"bom dia, você sabe uma piada",fora_escopo
+"bom dia, o que acha de a cotação do dólar",fora_escopo
+quem assinou o distrato,juridico
+me fala sobre quem ganhou o oscar,fora_escopo
+esqueci a VPN,ti_seguranca
+quantos dias de ponto eletrônico eu tenho,rh
+posso pedir licença no mês que vem,rh
+"bom dia, tem parcela do empréstimo em atraso",financeiro
+o contrato de locação foi renovado,juridico
+qual a política de senha,ti_seguranca
+tem duplicata em atraso,financeiro
+"bom dia, a despesa de viagem já foi paga",financeiro
+a despesa de viagem ja foi paga,financeiro
+"bom dia, quem aprovou a reembolso",financeiro
+tem alguma atualização,ti_seguranca
+"bom dia, voce sabe quem ganhou o oscar",fora_escopo
+"por favor, quem é o responsável",financeiro
+quando vence a despesa de viagem,financeiro
+quem é o responsável,rh
+"bom dia, o aditivo tem multa por rescisão",juridico
+qual a regra de licença para estagiário,rh
+qual cláusula fala de procuração,juridico
+quem libera conta de e-mail,ti_seguranca
+uma piada,fora_escopo
+preciso de ajuda com isso,fora_escopo
+"oi, qual a política de licença do antivírus",ti_seguranca
+"bom dia, preciso de ajuda com isso",financeiro
+"bom dia, você sabe como está o trânsito",fora_escopo
+quem assinou o contrato de locação,juridico
+"oi, existe contrato com cliente com o fornecedor",juridico
+o que diz a politica de licenca,rh
+como troco minha autenticacao em dois fatores,ti_seguranca
+"por favor, qual centro de custo da despesa de viagem",financeiro
+"oi, como configurar a pasta compartilhada",fora_escopo
+"por favor, qual o prazo",juridico
+"bom dia, o contrato com cliente tem multa por rescisão",juridico
+me fala sobre o jogo de ontem,fora_escopo
+quem aprovou a ordem de compra,financeiro
+onde está o documento,ti_seguranca
+"por favor, como funciona o holerite",rh
+qual o valor da nota fiscal,financeiro
+você sabe receita de bolo,fora_escopo
+o contrato com cliente tem multa por rescisão,juridico
+qual a regra de auxilio creche para estagiario,rh
+"por favor, como configurar a licença do antivírus",ti_seguranca
+"bom dia, qual clausula fala de termo de confidencialidade",juridico
+o termo de confidencialidade foi renovado,juridico
+preciso de ajuda com isso,juridico
+posso pedir ponto eletrônico no mês que vem,rh
+a previsao do tempo,fora_escopo
+onde vejo meu licença,rh
+onde vejo meu home office,rh
+"oi, voce sabe a previsao do tempo",fora_escopo
+"por favor, qual cláusula fala de contrato de locação",rh
+"bom dia, quem assinou o contrato de locacao",juridico
+quantos dias de décimo terceiro eu tenho,rh
+"oi, como está o trânsito",fora_escopo
+como troco minha autenticacao em dois fatores,ti_seguranca
+você sabe a previsão do tempo,fora_escopo
+quem aprovou a parcela do emprestimo,financeiro
+"oi, quem assinou o contrato de locação",juridico
+quem libera pasta compartilhada,ti_seguranca
+quantos dias de plano de saúde eu tenho,rh
+quem assinou o acordo de nível de serviço,juridico
+"por favor, a cotacao do dolar",fora_escopo
+qual o valor da nota fiscal,financeiro
+quando vence a conta de energia,financeiro
+"oi, existe termo de confidencialidade com o fornecedor",juridico
+o contrato de prestação tem multa por rescisão,juridico
+"oi, como troco minha conta de e-mail",ti_seguranca
+como funciona o auxílio creche,rh
+"bom dia, receita de bolo",fora_escopo
+o que acha de como esta o transito,fora_escopo
+quem é o responsável,fora_escopo
+a chave de acesso está bloqueada,ti_seguranca
+qual o valor da duplicata,financeiro
+quem assinou o contrato com cliente,juridico
+a licença do antivírus está bloqueada,juridico
+quem assinou o termo de confidencialidade,juridico
+"por favor, o aditivo foi renovado",juridico
+qual o valor da ordem de compra,financeiro
+"oi, o que diz a política de férias",rh
+qual centro de custo da nota fiscal,financeiro
+"bom dia, quem aprovou a ordem de compra",financeiro
+"por favor, esqueci a autenticacao em dois fatores",ti_seguranca
+o acordo de nivel de servico foi renovado,juridico
+qual o prazo do termo de confidencialidade,rh
+o que acha de quem ganhou o oscar,fora_escopo
+me manda o arquivo,fora_escopo
+quantos dias de licenca eu tenho,rh
+o que diz a política de holerite,rh
+quem libera VPN,ti_seguranca
+quem aprovou a fatura do fornecedor,financeiro
+"oi, quantos dias de auxílio creche eu tenho",rh
+quando vence a fatura do fornecedor,financeiro
+"por favor, quem ganhou o oscar",fora_escopo
+qual a política de senha,ti_seguranca
+você sabe a cotação do dólar,fora_escopo
+"por favor, o distrato tem multa por rescisão",juridico
+o contrato de locação foi renovado,juridico
+onde está o documento,financeiro
+esqueci a autenticação em dois fatores,ti_seguranca
+"bom dia, me fala sobre um filme bom",fora_escopo
+"oi, como funciona o holerite",rh
+"oi, posso pedir ponto eletrônico no mês que vem",rh
+esqueci a licença do antivírus,ti_seguranca
+"por favor, a cotação do dólar",fora_escopo
+o termo de confidencialidade foi renovado,juridico
+"por favor, a impressora da rede está bloqueada",ti_seguranca
+"bom dia, o que diz a política de licença",rh
+como troco minha chave de acesso,ti_seguranca
+o que acha de um filme bom,fora_escopo
+como configurar a pasta compartilhada,ti_seguranca
+quando vence a nota fiscal,juridico
+"bom dia, quando vence a duplicata",financeiro
+você sabe uma piada,fora_escopo
+como funciona o décimo terceiro,rh
+quem aprovou a duplicata,financeiro
+"oi, o que diz a política de holerite",rh
+preciso de ajuda com isso,financeiro
+"por favor, existe contrato de prestação com o fornecedor",juridico
+tem fatura do fornecedor em atraso,financeiro
+onde vejo meu home office,rh
+"oi, qual cláusula fala de aditivo",rh
+o que acha de a previsão do tempo,fora_escopo
+"bom dia, qual o prazo do distrato",juridico
+quando vence a fatura do fornecedor,financeiro
+quem ganhou o oscar,fora_escopo
+qual a regra de ponto eletronico para estagiario,rh
+tem fatura do fornecedor em atraso,ti_seguranca
+quando vence a fatura do fornecedor,financeiro
+o distrato foi renovado,juridico
+qual centro de custo da reembolso,financeiro
+como funciona o décimo terceiro,rh
+"por favor, me manda o arquivo",ti_seguranca
+existe contrato de locação com o fornecedor,juridico
+posso pedir auxilio creche no mes que vem,rh
+tem alguma atualização,juridico
+existe distrato com o fornecedor,juridico
+existe contrato de prestação com o fornecedor,fora_escopo
+receita de bolo,fora_escopo
+tem duplicata em atraso,financeiro
+qual a politica de autenticacao em dois fatores,ti_seguranca
+existe contrato de locação com o fornecedor,juridico
+quem libera licença do antivírus,ti_seguranca
+"bom dia, o que diz a política de home office",rh
+qual a regra de holerite para estagiário,rh
+"oi, qual centro de custo da fatura do fornecedor",financeiro
+a conta de e-mail está bloqueada,ti_seguranca
+"por favor, quem aprovou a duplicata",financeiro
+qual centro de custo da fatura do fornecedor,financeiro
+qual cláusula fala de termo de confidencialidade,juridico
+quantos dias de férias eu tenho,rh
+como configurar a autenticação em dois fatores,ti_seguranca
+o acordo de nível de serviço tem multa por rescisão,juridico
+"por favor, qual o valor da reembolso",financeiro
+qual a politica de chave de acesso,ti_seguranca
+tem alguma atualização,rh
+como troco minha licença do antivírus,ti_seguranca
+"por favor, qual o prazo do contrato com cliente",juridico
+"oi, o procuração foi renovado",juridico
+o que diz a política de plano de saúde,rh
+"por favor, como funciona o auxilio creche",rh
+tem parcela do empréstimo em atraso,financeiro
+o distrato tem multa por rescisão,juridico
+a chave de acesso está bloqueada,ti_seguranca
+a ordem de compra já foi paga,financeiro
+quem libera licença do antivírus,ti_seguranca
+tem alguma atualização,financeiro
+voce sabe quem ganhou o oscar,fora_escopo
+o termo de confidencialidade foi renovado,juridico
+onde vejo meu banco de horas,rh
+quem libera impressora da rede,ti_seguranca
+voce sabe a previsao do tempo,fora_escopo
+"bom dia, como troco minha impressora da rede",ti_seguranca
+onde vejo meu férias,rh
+o distrato tem multa por rescisao,juridico
+qual cláusula fala de contrato de locação,juridico
+como configurar a impressora da rede,ti_seguranca
+como troco minha conta de e-mail,ti_seguranca
+como configurar a chave de acesso,ti_seguranca
+"oi, quem é o responsável",fora_escopo
+a autenticação em dois fatores está bloqueada,ti_seguranca
+o que acha de uma piada,fora_escopo
+"oi, quem libera impressora da rede",ti_seguranca
+quantos dias de décimo terceiro eu tenho,rh
+"por favor, me fala sobre o jogo de ontem",fora_escopo
+"oi, o que diz a política de férias",rh
+a cotação do dólar,fora_escopo
+"bom dia, quantos dias de plano de saúde eu tenho",rh
+a licença do antivírus está bloqueada,ti_seguranca
+qual cláusula fala de contrato de locação,juridico
+"por favor, onde vejo meu férias",rh
+"oi, como configurar a chave de acesso",ti_seguranca
+"bom dia, como funciona o banco de horas",rh
+o jogo de ontem,fora_escopo
+"por favor, o que acha de um filme bom",fora_escopo
+esqueci a conta de e-mail,ti_seguranca
+existe contrato de locação com o fornecedor,juridico
+"bom dia, quem libera licença do antivírus",ti_seguranca
+existe procuração com o fornecedor,juridico
+quantos dias de férias eu tenho,rh
+quem libera pasta compartilhada,ti_seguranca
+quem aprovou a nota fiscal,financeiro
+qual o valor da conta de energia,financeiro
+quem assinou o aditivo,juridico
+onde vejo meu licença,rh
+"por favor, me fala sobre um filme bom",fora_escopo
+qual o valor da ordem de compra,financeiro
+quando vence a nota fiscal,financeiro
+me fala sobre uma piada,fora_escopo
+"bom dia, onde está o documento",fora_escopo
+o jogo de ontem,fora_escopo
+"por favor, qual o prazo do aditivo",juridico
+o jogo de ontem,fora_escopo
+o que acha de o jogo de ontem,fora_escopo
+esqueci a VPN,ti_seguranca
+me fala sobre a cotacao do dolar,fora_escopo
+a cotação do dólar,fora_escopo
+"bom dia, como está o trânsito",financeiro
+quem assinou o termo de confidencialidade,juridico
+o jogo de ontem,fora_escopo
+onde vejo meu décimo terceiro,rh
+"por favor, como troco minha senha",ti_seguranca
+quem libera autenticação em dois fatores,ti_seguranca
+"por favor, qual o prazo",fora_escopo
+"por favor, o que diz a política de plano de saúde",rh
+"oi, preciso de ajuda com isso",juridico
+a previsão do tempo,fora_escopo
+"por favor, o que diz a política de licença",rh
+quem aprovou a duplicata,financeiro
+tem nota fiscal em atraso,financeiro
+o que diz a política de home office,rh
+como funciona o auxílio creche,financeiro
+o que diz a politica de ferias,rh
+qual centro de custo da fatura do fornecedor,financeiro
+o que acha de quem ganhou o oscar,fora_escopo
+o distrato tem multa por rescisão,juridico
+uma piada,fora_escopo
+"por favor, como configurar a chave de acesso",ti_seguranca
+"por favor, posso pedir auxílio creche no mês que vem",rh
+voce sabe uma piada,fora_escopo
+"oi, qual a regra de ponto eletrônico para estagiário",rh
+qual centro de custo da conta de energia,financeiro
+qual cláusula fala de procuração,fora_escopo
+existe contrato de prestação com o fornecedor,juridico
+"oi, qual a política de conta de e-mail",ti_seguranca
+tem alguma atualização,ti_seguranca
+"por favor, esqueci a conta de e-mail",ti_seguranca
+o aditivo tem multa por rescisao,juridico
+"oi, qual o prazo do contrato de prestação",juridico
+quando vence a reembolso,financeiro
+"bom dia, onde vejo meu plano de saúde",rh
+como configurar a pasta compartilhada,ti_seguranca
+"por favor, a previsão do tempo",fora_escopo
+esqueci a chave de acesso,ti_seguranca
+"bom dia, esqueci a autenticacao em dois fatores",ti_seguranca
+"por favor, posso pedir licenca no mes que vem",rh
+"bom dia, qual a regra de auxílio creche para estagiário",rh
+"bom dia, esqueci a impressora da rede",ti_seguranca
+"oi, o que acha de receita de bolo",fora_escopo
+qual a política de senha,ti_seguranca
+qual centro de custo da reembolso,financeiro
+a duplicata já foi paga,financeiro
+a fatura do fornecedor já foi paga,financeiro
+o distrato tem multa por rescisão,juridico
+"oi, quantos dias de décimo terceiro eu tenho",rh
+"por favor, a previsão do tempo",fora_escopo
+o que diz a política de holerite,rh
+"bom dia, como está o trânsito",fora_escopo
+o acordo de nível de serviço tem multa por rescisão,juridico
+o acordo de nível de serviço foi renovado,juridico
+onde está o documento,juridico
+quem aprovou a ordem de compra,financeiro
+quantos dias de ponto eletrônico eu tenho,rh
+qual cláusula fala de contrato de prestação,financeiro
+o aditivo foi renovado,juridico
+tem conta de energia em atraso,financeiro
+qual cláusula fala de termo de confidencialidade,juridico
+onde está o documento,financeiro
+o que acha de quem ganhou o oscar,fora_escopo
+o que diz a política de home office,rh
+qual centro de custo da despesa de viagem,financeiro
+qual o prazo,ti_seguranca
+a VPN está bloqueada,ti_seguranca
+me fala sobre a previsão do tempo,fora_escopo
+o contrato com cliente foi renovado,juridico
+me fala sobre uma piada,fora_escopo
+quem libera senha,ti_seguranca
+uma piada,fora_escopo
+qual a política de impressora da rede,ti_seguranca
+a conta de energia já foi paga,financeiro
+"por favor, receita de bolo",fora_escopo
+quem libera chave de acesso,ti_seguranca
+o aditivo foi renovado,juridico
+o jogo de ontem,fora_escopo
+a reembolso já foi paga,financeiro
+onde está o documento,fora_escopo
+"bom dia, posso pedir holerite no mês que vem",rh
+qual o prazo do contrato de locação,juridico
+"oi, você sabe o jogo de ontem",fora_escopo
+esqueci a autenticacao em dois fatores,ti_seguranca
+"bom dia, quando vence a reembolso",financeiro
+existe distrato com o fornecedor,juridico
+quem libera impressora da rede,ti_seguranca
+qual cláusula fala de contrato com cliente,juridico
+quando vence a conta de energia,financeiro
+me fala sobre a previsão do tempo,fora_escopo
+"bom dia, quem aprovou a parcela do emprestimo",financeiro
+qual o prazo do procuração,juridico
+como configurar a chave de acesso,ti_seguranca
+o distrato foi renovado,juridico
+"por favor, quem aprovou a conta de energia",financeiro
+"por favor, a duplicata já foi paga",financeiro
+qual cláusula fala de aditivo,juridico
+"por favor, a cotação do dólar",fora_escopo
+o que acha de o jogo de ontem,fora_escopo
+"por favor, qual centro de custo da reembolso",financeiro
+a reembolso já foi paga,financeiro
+esqueci a licença do antivírus,ti_seguranca
+quem libera autenticação em dois fatores,ti_seguranca
+"oi, me fala sobre o jogo de ontem",fora_escopo
+me fala sobre um filme bom,fora_escopo
+você sabe a previsão do tempo,fora_escopo
+qual a política de chave de acesso,ti_seguranca
+me fala sobre a previsao do tempo,fora_escopo
+"por favor, uma piada",fora_escopo
+me fala sobre uma piada,fora_escopo
+como troco minha pasta compartilhada,ti_seguranca
+quem libera conta de e-mail,ti_seguranca
+qual a regra de home office para estagiário,rh
+quem assinou o acordo de nível de serviço,juridico
+posso pedir decimo terceiro no mes que vem,rh
+como configurar a autenticação em dois fatores,ti_seguranca
+o que diz a política de auxílio creche,juridico
+qual a política de VPN,ti_seguranca
+"oi, o distrato foi renovado",juridico
+você sabe como está o trânsito,fora_escopo
+"por favor, você sabe quem ganhou o oscar",fora_escopo
+o que acha de o jogo de ontem,fora_escopo
+"bom dia, o que acha de o jogo de ontem",fora_escopo
+o que diz a política de holerite,rh
+quem libera chave de acesso,ti_seguranca
+existe termo de confidencialidade com o fornecedor,juridico
+"oi, a senha está bloqueada",ti_seguranca
+"por favor, a parcela do empréstimo já foi paga",financeiro
+esqueci a chave de acesso,ti_seguranca
+"por favor, o que acha de como está o trânsito",fora_escopo
+"por favor, existe contrato com cliente com o fornecedor",ti_seguranca
+tem duplicata em atraso,juridico
+qual o valor da reembolso,financeiro
+"oi, me fala sobre quem ganhou o oscar",fora_escopo
+qual o prazo do distrato,juridico
+quantos dias de home office eu tenho,rh
+você sabe quem ganhou o oscar,fora_escopo
+"bom dia, o que acha de como está o trânsito",fora_escopo
+"oi, a senha está bloqueada",ti_seguranca
+a chave de acesso está bloqueada,ti_seguranca
+o que diz a politica de vale-refeicao,ti_seguranca
+"bom dia, quem libera VPN",ti_seguranca
+a conta de energia já foi paga,financeiro
+"oi, como troco minha chave de acesso",ti_seguranca
+"oi, qual a regra de home office para estagiário",rh
+como funciona o licenca,rh
+quem assinou o contrato de locacao,juridico
+o que diz a política de licença,rh
+"por favor, posso pedir banco de horas no mês que vem",rh
+me fala sobre como está o trânsito,fora_escopo
+"oi, qual o prazo do aditivo",juridico
+a chave de acesso esta bloqueada,ti_seguranca
+"bom dia, qual o valor da ordem de compra",financeiro
+"oi, quem assinou o acordo de nível de serviço",juridico
+"oi, qual o valor da nota fiscal",financeiro
+voce sabe quem ganhou o oscar,fora_escopo
+"oi, preciso de ajuda com isso",financeiro
+"bom dia, qual a política de licença do antivírus",ti_seguranca
+como configurar a conta de e-mail,ti_seguranca
+qual a regra de banco de horas para estagiário,rh
+como funciona o banco de horas,rh
+"bom dia, a nota fiscal já foi paga",financeiro
+me fala sobre a previsão do tempo,fora_escopo
+qual a regra de vale-refeicao para estagiario,rh
+você sabe a previsão do tempo,fora_escopo
+"por favor, quem libera licença do antivírus",ti_seguranca
+quantos dias de vale-refeicao eu tenho,rh
+posso pedir ferias no mes que vem,rh
+posso pedir ponto eletrônico no mês que vem,rh
+quantos dias de holerite eu tenho,rh
+"por favor, a conta de e-mail está bloqueada",ti_seguranca
+"oi, a duplicata já foi paga",financeiro
+"bom dia, existe acordo de nível de serviço com o fornecedor",juridico
+qual o prazo do termo de confidencialidade,juridico
+quantos dias de banco de horas eu tenho,rh
+quando vence a reembolso,financeiro
+"bom dia, o contrato de prestação tem multa por rescisão",juridico
+a previsão do tempo,fora_escopo
+me manda o arquivo,juridico
+"bom dia, quem é o responsável",financeiro
+quem aprovou a duplicata,financeiro
+me fala sobre uma piada,fora_escopo
+qual cláusula fala de contrato de prestação,juridico
+qual o prazo do procuracao,juridico
+o aditivo foi renovado,juridico
+esqueci a VPN,ti_seguranca
+quando vence a ordem de compra,financeiro
+"bom dia, voce sabe a previsao do tempo",fora_escopo
+"oi, qual o valor da despesa de viagem",financeiro
+"oi, onde vejo meu holerite",rh
+"oi, como troco minha autenticacao em dois fatores",ti_seguranca
+"por favor, qual o prazo",financeiro
+como funciona o férias,rh
+"oi, me fala sobre receita de bolo",fora_escopo
+tem alguma atualização,ti_seguranca
+onde vejo meu licenca,rh
+existe acordo de nivel de servico com o fornecedor,juridico
+posso pedir holerite no mês que vem,rh
+"oi, a chave de acesso está bloqueada",ti_seguranca
+"oi, quando vence a parcela do empréstimo",financeiro
+tem alguma atualização,financeiro
+a fatura do fornecedor já foi paga,financeiro
+qual a regra de banco de horas para estagiário,rh
+qual o valor da reembolso,financeiro
+quem libera licença do antivírus,ti_seguranca
+qual o prazo,financeiro
+qual clausula fala de acordo de nivel de servico,juridico
+como funciona o holerite,rh
+o contrato de prestacao tem multa por rescisao,juridico
+esqueci a pasta compartilhada,ti_seguranca
+quando vence a fatura do fornecedor,financeiro
+"por favor, o contrato de locação tem multa por rescisão",juridico
+"por favor, o aditivo tem multa por rescisão",juridico
+me fala sobre como está o trânsito,fora_escopo
+você sabe quem ganhou o oscar,fora_escopo
+como troco minha chave de acesso,ti_seguranca
+você sabe quem ganhou o oscar,fora_escopo
+"oi, quem libera conta de e-mail",ti_seguranca
+qual o prazo do termo de confidencialidade,juridico
+esqueci a impressora da rede,ti_seguranca
+quem libera conta de e-mail,ti_seguranca
+voce sabe a previsao do tempo,fora_escopo
+o aditivo foi renovado,juridico
+o que acha de um filme bom,fora_escopo
+tem fatura do fornecedor em atraso,financeiro
+"bom dia, você sabe quem ganhou o oscar",fora_escopo
+como configurar a pasta compartilhada,ti_seguranca
+o que diz a política de ponto eletrônico,rh
+a despesa de viagem já foi paga,financeiro
+a senha está bloqueada,ti_seguranca
+me fala sobre uma piada,fora_escopo
+"oi, o distrato foi renovado",juridico
+posso pedir holerite no mes que vem,rh
+qual o prazo do contrato com cliente,financeiro
+"por favor, qual centro de custo da ordem de compra",fora_escopo
+quem assinou o contrato com cliente,juridico
+"bom dia, qual clausula fala de procuracao",juridico
+"bom dia, o aditivo foi renovado",juridico
+"oi, quando vence a reembolso",financeiro
+quando vence a nota fiscal,financeiro
+"por favor, como configurar a chave de acesso",ti_seguranca
+"por favor, qual o valor da despesa de viagem",financeiro
+a previsão do tempo,fora_escopo
+o aditivo tem multa por rescisão,juridico
+você sabe uma piada,fora_escopo
+"bom dia, onde vejo meu holerite",rh
+o que acha de receita de bolo,fora_escopo
+como funciona o plano de saude,rh
+qual o valor da conta de energia,financeiro
+quantos dias de auxílio creche eu tenho,rh
+qual o valor da reembolso,financeiro
+"oi, qual centro de custo da ordem de compra",financeiro
+o contrato de locacao tem multa por rescisao,juridico
+qual centro de custo da reembolso,financeiro
+"oi, onde vejo meu ponto eletrônico",rh
+esqueci a VPN,ti_seguranca
+"oi, posso pedir banco de horas no mes que vem",rh
+"bom dia, me fala sobre o jogo de ontem",fora_escopo
+o que diz a politica de licenca,rh
+quantos dias de décimo terceiro eu tenho,rh
+"por favor, qual o prazo do termo de confidencialidade",juridico
+"oi, onde está o documento",financeiro
+como funciona o férias,rh
